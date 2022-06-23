@@ -3,3 +3,5 @@ Updae in github
 
 Test revert
 
+Test conflict solving 2
+
